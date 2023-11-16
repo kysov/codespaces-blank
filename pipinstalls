@@ -1,0 +1,16 @@
+pip install numpy
+pip install Cartopy
+pip install pandas
+pip install matplotlib
+pip install xarray
+pip install requests
+pip install netCDF4
+pip install metpy
+pip install h5py
+pip install numcodecs
+pip install s3fs
+pip install google
+pip install google-cloud-storage
+pip install azure-storage-blob
+pip install zarr
+pip install pytz
